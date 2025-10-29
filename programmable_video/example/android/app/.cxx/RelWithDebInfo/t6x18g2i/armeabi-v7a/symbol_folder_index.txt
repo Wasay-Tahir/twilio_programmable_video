@@ -1,0 +1,1 @@
+/Users/hf/Documents/boored/Booredcooding02/twilio_programmable_video/programmable-video/programmable_video/example/build/app/intermediates/cxx/RelWithDebInfo/t6x18g2i/obj/armeabi-v7a

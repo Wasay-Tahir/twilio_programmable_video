@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/hf/Documents/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/hf/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/hf/Documents/boored/Booredcooding02/twilio_programmable_video/programmable-video/programmable_video/example/android/app/.cxx/RelWithDebInfo/t6x18g2i/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/hf/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/hf/Documents/boored/Booredcooding02/twilio_programmable_video/programmable-video/programmable_video/example/android/app/.cxx/RelWithDebInfo/t6x18g2i/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

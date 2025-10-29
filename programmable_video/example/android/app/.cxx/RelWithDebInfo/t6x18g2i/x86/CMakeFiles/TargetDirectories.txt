@@ -1,0 +1,2 @@
+/Users/hf/Documents/boored/Booredcooding02/twilio_programmable_video/programmable-video/programmable_video/example/android/app/.cxx/RelWithDebInfo/t6x18g2i/x86/CMakeFiles/edit_cache.dir
+/Users/hf/Documents/boored/Booredcooding02/twilio_programmable_video/programmable-video/programmable_video/example/android/app/.cxx/RelWithDebInfo/t6x18g2i/x86/CMakeFiles/rebuild_cache.dir
